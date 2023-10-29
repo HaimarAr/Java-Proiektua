@@ -154,6 +154,8 @@ public class ErabiltzaileKudeaketaMySQL {
         } catch (SQLException e) {
             System.err.println("Errorea erabiltzailea ezabatzerakoan: " + e.getMessage());
         }
+
+	Hau gehitu da
     }
 }
 
